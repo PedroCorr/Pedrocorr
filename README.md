@@ -1,7 +1,8 @@
-# Bienvendos a mi pagina jeje  👋
+# Bienvenidos a mi pagina jeje  👋
 ## Personal interests
 - I live in London
 - Soy jugador profesional de LOL y rocket league
+- Juego a krunker y me gusta comer bocadillos de choped y de mortadelas con aceitunas.
 <!--
 **PedroCorr/Pedrocorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
