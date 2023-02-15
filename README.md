@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Bienvendos a mi pagina jeje  👋
+## Personal interests
+- I live in London
+- Soy jugador profesional de LOL y rocket league
 <!--
 **PedroCorr/Pedrocorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
